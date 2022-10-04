@@ -1,0 +1,37 @@
+.messageTitle {
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 10%;
+}
+
+.input1 {
+  border: 2px outset #a062e6;
+  border-radius: 0.25rem 0.25rem 0 0;
+  width: 100%;
+  margin-bottom: 1px;
+}
+
+.input2 {
+  border: 2px outset #a062e6;
+  width: 100%;
+  margin-bottom: 1px;
+}
+
+.input3 {
+  border: 2px outset #a062e6;
+  border-radius: 0 0 0.25rem 0.25rem;
+  width: 100%;
+  margin-bottom: 10%;
+}
+
+.buttonDiv {
+  text-align: left;
+}
+
+.submitButton {
+  background-color: #a062e6;
+  color: white;
+  border: 0;
+  border-radius: 0.25rem;
+  padding: 3%;
+}

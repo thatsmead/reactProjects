@@ -1,0 +1,22 @@
+.whoTitle {
+  margin-bottom: 8%;
+  font-weight: 600;
+}
+
+.whoDescription {
+  margin-bottom: 8%;
+  text-align: left;
+}
+
+.teamTitle {
+  margin-bottom: 8%;
+  font-weight: 400;
+}
+
+.imgRow {
+  text-align: center;
+}
+
+.memberName {
+  margin-top: 5%;
+}

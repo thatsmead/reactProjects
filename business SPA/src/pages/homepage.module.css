@@ -1,0 +1,26 @@
+.mainTitle {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 10%;
+}
+
+.homepage {
+  text-align: left;
+  position: absolute;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+.team {
+  position: absolute;
+  margin-left: -3%;
+  margin-top: 12%;
+}
+
+.discover {
+  background-color: #a062e6;
+  color: white;
+  border: 0;
+  border-radius: 0.25rem;
+  padding: 3%;
+}

@@ -1,0 +1,11 @@
+.errorTitle {
+  font-weight: 600;
+  font-size: 5rem;
+  margin-top: 30%;
+}
+
+.errorMessage {
+  margin-top: 5%;
+  font-weight: 400;
+  font-size: 2rem;
+}
